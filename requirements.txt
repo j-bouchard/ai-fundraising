@@ -1,0 +1,8 @@
+mcp @ git+https://github.com/modelcontextprotocol/python-sdk@main
+simple-salesforce>=1.12.5
+python-dotenv>=1.0.1
+pydantic>=2.9.2
+httpx>=0.27.2
+requests>=2.32.3
+cachetools>=5.5.0
+python-dateutil>=2.9.0.post0
